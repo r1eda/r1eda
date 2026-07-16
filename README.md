@@ -16,7 +16,7 @@
   <img align="right" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation"/>
 
   - **Name**: Reda Al_Mousawi  
-  - **Age**: 21  
+  - **Age**: 23  
   - **Current Status**: IT student at the University of Basra  
   - **Specialization**: Mobile app development  
   - **Interests**: Movies, music, art, science, and technology  
