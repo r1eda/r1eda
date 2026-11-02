@@ -63,7 +63,7 @@ I'm a **Mobile App Developer** focused on building smooth, interactive iOS & And
 |---|---|---|
 | **FatooriX** — Invoices & Inventory | [iOS](https://apps.apple.com/us/app/fatoorix-فواتير-ومخزون/id6812243254) | [Android](https://play.google.com/store/apps/details?id=com.nextcoder.fatoorix) |
 | **Awsel (أوصل)** | [iOS](https://apps.apple.com/us/app/awsel-أوصل/id6812223893) | [Android](https://play.google.com/store/apps/details?id=com.nextcoder.awsel) |
-| **Outfitly (أوتفتلي)** | [iOS](https://apps.apple.com/us/app/اوتفتلي/id6821941398) | — |
+| **Outfitly (أوتفتلي)** | [iOS](https://apps.apple.com/us/app/اوتفتلي/id6821941398) | [Android](https://play.google.com/store/apps/details?id=com.nextcoder.awtaftali) |
 | **Colorino** | [iOS](https://apps.apple.com/us/app/colorino/id6811881897) | [Android](https://play.google.com/store/apps/details?id=com.nextcoder.colorino) |
 | **Expenses OK** | [iOS](https://apps.apple.com/us/app/expenses-ok/id6820438298) | [Android](https://play.google.com/store/apps/details?id=com.nextcoder.expenses_ok) |
 | **AC Split Smart** | [iOS](https://apps.apple.com/us/app/ac-split-smart/id6820454950) | [Android](https://play.google.com/store/apps/details?id=com.nextcoder.split_smart) |
@@ -71,15 +71,6 @@ I'm a **Mobile App Developer** focused on building smooth, interactive iOS & And
 | **Basra Times Square (بصرة تايمز سكوير)** | [iOS](https://apps.apple.com/us/app/بصرة-تايمز-سكوير/id6477568213) | [Android](https://play.google.com/store/apps/details?id=com.mycompany.btsmall4) |
 | **Basra Times Square Admin** | [iOS](https://apps.apple.com/us/app/admin-basra-times-square/id6504284312) | [Android](https://play.google.com/store/apps/details?id=com.mycompany.btsmadmin4) |
 | **Times Square Radio (راديو تايمز سكوير)** | [iOS](https://apps.apple.com/us/app/راديو-تايمز-سكوير/id1189913447) | [Android](https://play.google.com/store/apps/details?id=com.harmis.fm_2024) |
-
----
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=r1eda&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1eda&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
