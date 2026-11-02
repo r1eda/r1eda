@@ -1,7 +1,6 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Reda%20Emad&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Mobile%20App%20Developer%20%7C%20iOS%20%26%20Android&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Building+fast%2C+beautiful+mobile+apps;Flutter+%E2%80%A2+Dart+%E2%80%A2+Firebase;%D8%AA%D8%B7%D9%88%D9%8A%D8%B1+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA+%D8%A7%D9%84%D9%87%D9%88%D8%A7%D8%AA%D9%81+%D8%A7%D9%84%D8%B0%D9%83%D9%8A%D8%A9;10%2B+apps+published+on+the+stores" alt="Typing SVG" />
 
